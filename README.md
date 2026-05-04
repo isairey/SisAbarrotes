@@ -180,7 +180,7 @@ Brindar una herramienta digital eficiente para mejorar la administración de tie
 ---
 
 ## 👨‍💻 Autor
-
+<img src="https://avatars.githubusercontent.com/isairey?s=115"><br>
 **Isai Reyes**
 Desarrollador de sistemas web y soluciones empresariales 🚀
 
