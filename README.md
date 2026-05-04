@@ -108,7 +108,7 @@ public/
 1. Clonar el repositorio:
 
 ```bash id="t7y2ka"
-git clone https://github.com/TU-USUARIO/sistema-abarrotes-laravel.git
+git clone https://github.com/isairey/sistema-abarrotes-laravel.git
 ```
 
 2. Acceder al proyecto:
