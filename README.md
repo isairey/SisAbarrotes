@@ -108,13 +108,13 @@ public/
 1. Clonar el repositorio:
 
 ```bash id="t7y2ka"
-git clone https://github.com/isairey/sistema-abarrotes-laravel.git
+git clone https://github.com/isairey/SisAbarrotes.git
 ```
 
 2. Acceder al proyecto:
 
 ```bash id="c3v9op"
-cd sistema-abarrotes-laravel
+cd SisAbarrotes
 ```
 
 3. Instalar dependencias:
@@ -188,5 +188,5 @@ Desarrollador de sistemas web y soluciones empresariales 🚀
 
 ## 📜 Licencia
 
-Proyecto de uso libre para fines educativos y comerciales.
+Licence MIT.
 
